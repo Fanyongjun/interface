@@ -1,0 +1,2 @@
+# interface
+TESTNG框架接口测试小demo，主要是用来配合jenkins做持续集成
